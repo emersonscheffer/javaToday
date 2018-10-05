@@ -1,0 +1,16 @@
+
+public class Question5 {
+
+	public static void main(String[] args) {
+		
+		int number2 = 2;
+		
+		while(number2 > 0) {
+			
+			System.out.println(number2);
+			number2 = number2 * 2;
+		}
+
+	}
+
+}
